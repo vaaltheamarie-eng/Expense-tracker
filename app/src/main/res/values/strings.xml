@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="splash_tagline">Track every expense with clarity</string>
+</resources>
