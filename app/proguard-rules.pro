@@ -1,5 +1,0 @@
--keep class com.expense_tracker.app.** { *; }
--keep class com.google.firebase.** { *; }
--keep class kotlinx.coroutines.** { *; }
--keepattributes *Annotation*
--keepattributes SourceFile,LineNumberTable
